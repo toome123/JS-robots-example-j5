@@ -1,0 +1,24 @@
+{
+  "name": "johnny-five",
+  "version": "0.8.85",
+  "description": "The JavaScript Robotics and Hardware Programming Framework. ",
+  "main": "test.js",
+  "dependencies": {
+    "j5-songs": "^0.0.7",
+    "johnny-five": "^0.8.85"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toome123/JS-robots-example-j5.git"
+  },
+  "author": "toome123",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toome123/JS-robots-example-j5/issues"
+  },
+  "homepage": "https://github.com/toome123/JS-robots-example-j5"
+}
